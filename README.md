@@ -1,6 +1,6 @@
 # PA446
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This is a *bare-minimum* template to create a [Jekyll] site that:11
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
